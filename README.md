@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Laravel-Note-Project
+This is a web app that permits users to create accounts with email verification and create notes, edit, update notes and delete notes.
+>>>>>>> 62166d3d7b06219414e659544a671ab2ce1a70f5
